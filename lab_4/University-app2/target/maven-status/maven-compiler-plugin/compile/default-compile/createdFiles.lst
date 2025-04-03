@@ -1,0 +1,16 @@
+controller\GroupCreator.class
+model\Faculty.class
+model\Group.class
+model\Department.class
+model\Sex.class
+controller\DepartmentCreator.class
+model\University.class
+Run.class
+model\Student.class
+controller\StudentCreator.class
+controller\HumanCreator.class
+model\Human.class
+controller\UniversityCreator.class
+controller\JsonManager.class
+controller\FacultyCreator.class
+model\StructuralUnit.class
